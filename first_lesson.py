@@ -26,5 +26,3 @@ class humans:
 ali = humans()
 print(ali.boy)
 print(ali.running(90))
-
-public list01=[1,2,3];
