@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 """
-Created on Mon Jul  6 18:50:13 2020
+Created on Mon Jul  6 18:50:13 2023
 
-@author: sadievrenseker
+@author: efe33
 """
 
 #1.kutuphaneler
@@ -12,7 +12,7 @@ import pandas as pd
 
 #2.veri onisleme
 #2.1.veri yukleme
-veriler = pd.read_csv('veriler.csv')
+veriler = pd.read_csv('satislar.csv')
 #pd.read_csv("veriler.csv")
 #test
 print(veriler)
