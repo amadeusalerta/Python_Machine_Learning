@@ -54,7 +54,7 @@ y_train = y_train.sort_index()
 plt.plot(x_train,y_train)
 plt.plot(x_test,lr_reg.predict(x_test))
 
-plt.title("Aylar'a Göre Satış")
+plt.title("Aylara Göre Satış")
 plt.xlabel("Aylar")
 plt.ylabel("Satışlar")
 
